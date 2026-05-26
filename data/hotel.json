@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Grand Palace Hotel",
+    "price": 5000,
+    "city": "Chennai"
+  },
+  {
+    "name": "Ocean View Resort",
+    "price": 6500,
+    "city": "Mumbai"
+  },
+  {
+    "name": "Royal Stay Inn",
+    "price": 4000,
+    "city": "Bangalore"
+  },
+  {
+    "name": "Mountain Paradise",
+    "price": 7200,
+    "city": "Ooty"
+  },
+  {
+    "name": "Sea Breeze Hotel",
+    "price": 5800,
+    "city": "Goa"
+  },
+  {
+    "name": "Sunrise Residency",
+    "price": 3500,
+    "city": "Hyderabad"
+  },
+  {
+    "name": "Elite Comfort Suites",
+    "price": 8100,
+    "city": "Delhi"
+  },
+  {
+    "name": "Green Valley Hotel",
+    "price": 4700,
+    "city": "Coimbatore"
+  },
+  {
+    "name": "Skyline Luxury Rooms",
+    "price": 9000,
+    "city": "Kolkata"
+  },
+  {
+    "name": "Blue Lagoon Resort",
+    "price": 7600,
+    "city": "Pondicherry"
+  }
+]
